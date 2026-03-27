@@ -13,3 +13,5 @@ const upi = "Added a UPI";
 console.log(upi);
 
 console.log("latest update");
+
+console.log("Bug Fixed");
